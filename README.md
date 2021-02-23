@@ -1,9 +1,8 @@
 ### Hi there 👋
 I'm Mihnea, a Java/C++/C developer who creates a lot of cool backend related stuff, Spigot plugins, APIs and much more.  
+I'm a fast learner who is always opened to others' ideas!
 I open source most of my projects, so feel free to contribute to them if you want! :)  
-My Discord DMs are always open, in case you want to message me, contact me at: thmihnea#1337  
-
-🔭 I’m currently working with Nexs-Romania
+My Discord DMs are always open, in case you want to message me, contact me at: thmihnea#1337
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thmihnea&show_icons=true&theme=radical)
 
