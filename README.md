@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Mihnea, a Software Engineer who creates a lot of cool backend related stuff, Spigot plugins, APIs, web applications and much more.  
-Known programming languages: C, C++, Java, JavaScript, C#.
+Known programming languages: C, C++, Java, JavaScript, C#.  
 I open source most of my projects, so feel free to contribute to them if you want! :)  
 My Discord DMs are always open, in case you want to message me, contact me at: thmihnea#1337
   
