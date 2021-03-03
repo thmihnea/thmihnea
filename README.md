@@ -8,7 +8,7 @@ My Discord DMs are always open, in case you want to message me, contact me at: t
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thmihnea&show_icons=true&theme=material-palenight" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmihnea&layout=compact&theme=material-palenight" />
+  <img align="center" height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmihnea&layout=compact&theme=material-palenight" />
 </a>
 
 <!--
