@@ -4,11 +4,11 @@ Known programming languages: C, C++, Java, JavaScript, C#.
 I open source most of my projects, so feel free to contribute to them if you want! :)  
 My Discord DMs are always open, in case you want to message me, contact me at: thmihnea#1337
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/thmihnea">
   <img align="center" width="400" height="150" src="https://github-readme-stats.vercel.app/api?username=thmihnea&show_icons=true&theme=material-palenight" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width="475" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmihnea&layout=compact&theme=material-palenight" />
+<a href="https://github.com/thmihnea">
+  <img align="center" width="550" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmihnea&layout=compact&theme=material-palenight" />
 </a>
 
 <!--
