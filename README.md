@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/767506892741672980/818220843690754099/JPG.png"></img>
+<img src="https://cdn.discordapp.com/attachments/767506892741672980/818587415048093766/Final_2.png"></img>
 ### Hi there 👋
 I'm Mihnea, a Software Engineer who creates a lot of cool backend related stuff, Spigot plugins, APIs, web applications and much more.  
 Known programming languages: C, C++, Java, JavaScript, C#.  
