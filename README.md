@@ -1,9 +1,9 @@
 <img src="https://cdn.discordapp.com/attachments/767506892741672980/818220839991902228/JPG_.png"></img>
 <style>
-  body {
-    text-align: center
-  }
-  </style>
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
 ### Hi there 👋
 I'm Mihnea, a Software Engineer who creates a lot of cool backend related stuff, Spigot plugins, APIs, web applications and much more.  
 Known programming languages: C, C++, Java, JavaScript, C#.  
