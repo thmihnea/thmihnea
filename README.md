@@ -1,3 +1,5 @@
+
+<html>
 <img src="https://cdn.discordapp.com/attachments/767506892741672980/818220839991902228/JPG_.png"></img>
 <style>
 h1 {text-align: center;}
@@ -16,7 +18,7 @@ My Discord DMs are always open, in case you want to message me, contact me at: t
 <a href="https://github.com/thmihnea">
   <img align="center" width="400" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thmihnea&layout=compact&theme=material-palenight" />
 </a>
-
+</html>
 <!--
 **thmihnea/thmihnea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
